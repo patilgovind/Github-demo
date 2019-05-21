@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 48B2-F72E
+
+ Directory of C:\Users\govind.patil\Desktop\Jenkins
+
+05/21/2019  06:02 PM    <DIR>          .
+05/21/2019  06:02 PM    <DIR>          ..
+05/21/2019  05:06 PM               416 index.html
+05/21/2019  06:02 PM                 0 Integration.txt
+05/21/2019  06:00 PM               117 Jenkins.txt.txt
+05/21/2019  05:59 PM               474 test2.txt
+               4 File(s)          1,007 bytes
+               2 Dir(s)  117,250,674,688 bytes free
